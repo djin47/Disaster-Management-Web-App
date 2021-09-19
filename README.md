@@ -6,7 +6,7 @@ technology available.
 The project focuses on disaster recognition/classification and damage evaluation in the data
 provided. The data provided could be in the form of Images, Videos, or remote sensing data
 like Satellite Images etc. The AI system provides user the functionality to identify disasters in
-a certain multimedia file and the extent of damage through remote sensing data. In this project
+a certain multimedia file and the extent of damage through remote sensing data. In this project,
 we have used Neural Networks to train the system to recognize different kinds of disasters form
 regular everyday images and to estimate damage done through remote sensing data. Neural
 networks are a class of machine learning algorithms used to model complex patterns in datasets
